@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there! 
+I'm Claire, a college student majoring in computational biology.
 
+I'm mainly working on genomics and biological dataset-related projects in Python at the moment. :)
+
+Feel free to reach out via email if you'd like to contact me! 💜
 <!--
 **cstumbo/cstumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
