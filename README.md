@@ -1,4 +1,4 @@
-## Hi there! 
+## Hello!
 I'm Claire, a college student majoring in computational biology.
 
 I'm mainly working on genomics and biological dataset-related projects in Python at the moment. :)
